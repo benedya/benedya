@@ -6,4 +6,5 @@ I'm a **Full Stack Software Engineer (backend-focused)** with **10+ years** of e
 - **Stack:** PHP, Node.js, JavaScript/TypeScript  
 
 ### 📄 Articles  
+- [Anticorruption Layer in a Modular Application](https://dev.to/benedya/anticorruption-layer-in-a-modular-application-53pe)
 - [Domain vs. Application Services: What is the Difference?](https://dev.to/benedya/draft-domain-vs-application-services-what-is-difference-2867)  
