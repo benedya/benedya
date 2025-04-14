@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Bohdan!  
+### Hi there 👋  
 
-I'm a **Full Stack Developer (backend-focused)** with **10+ years** of experience building robust web applications. Passionate about **Layered (Clean) Architecture** and **Domain-Driven Design (DDD),** I strive to create elegant, maintainable, and scalable software solutions.  
+I'm a **Software Developer** with **10+ years** of experience building robust web applications. Passionate about the principles of **Layered (Clean) Architecture** and **Domain-Driven Design (DDD)**, I strive to create elegant, maintainable, and scalable software solutions.  
 
 - **Expertise:** Backend and frontend development, software architecture  
 - **Stack:** PHP, Node.js, JavaScript/TypeScript  
