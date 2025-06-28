@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-I'm a **Software Developer** with **10+ years** of experience building robust web applications. I like applying the principles of **Layered (Clean) Architecture** and **Domain-Driven Design (DDD)**, and strive to create maintainable and scalable software solutions.  
+I'm a Software Developer with 10+ years of experience building robust web applications. I like applying the principles of Layered (Clean) Architecture and Domain-Driven Design, and strive to create maintainable and scalable software solutions.  
 
 - **Expertise:** Backend and frontend development, software architecture  
 - **Stack:** PHP, Node.js, JavaScript/TypeScript  
